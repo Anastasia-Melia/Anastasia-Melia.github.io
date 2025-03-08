@@ -4,8 +4,8 @@ title: "About Me"
 description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
 date: 2018-11-03T10:20:00Z
 weight: 1
-thumbnail: "/assets/images/gen/projects/Anastasia.jpg"
-image: "/assets/images/gen/projects/Anastasia.jpg"
+thumbnail: "/assets/images/gen/projects/Anastasia.webp"
+image: "/assets/images/gen/projects/Anastasia.webp"
 categories: ["Development"]
 # client: "Dubai Star"
 role: "Building Designer"
