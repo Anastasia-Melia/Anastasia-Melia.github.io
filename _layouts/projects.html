@@ -19,7 +19,7 @@ body_classes: page-projects
 
 {% assign cards = site.sites | sort: 'date' | reverse %}
 {% assign limit = page.sites.limit | default: 999 %}
-{% assign sort_by = page.sites.sort | default: 'date' %}
+{% assign sort_by = page.sites.sort | default: 'weight' %}
 {% assign columns =  page.sites.columns | default: 3 %}
 {% capture columns %}col-lg-{{ 12 | divided_by:columns }}{% endcapture %}
 {% if sort_by == 'weight' %}
