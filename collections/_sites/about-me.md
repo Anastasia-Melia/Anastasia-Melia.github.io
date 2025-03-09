@@ -2,7 +2,7 @@
 layout: project-right
 title: "About Me"
 description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
-date: 2018-11-03T10:20:00Z
+#date: 2018-11-03T10:20:00Z
 weight: 1
 permalink: /about-me/
 thumbnail: "/assets/images/gen/projects/anastasia-thumbnail.webp"
@@ -17,14 +17,6 @@ gallery_limit: 1
 ---
 
 Anastasia Melia Eleftheriou is a Greek filmmaker and film programmer based in Paris. Originally from Thessaloniki, Greece, she relocated to Paris in 2011. She received training in directing and editing in both France and the United States. ​
-imdb.com
-+1
-filmindependent.org
-+1
-filmindependent.org
-+1
-en.unifrance.org
-+1
 
 In her role as a film programmer, Eleftheriou collaborates with institutions and festivals on film curation. She also contributes as a critic for the East European Film Bulletin. ​
 
