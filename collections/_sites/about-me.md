@@ -4,7 +4,7 @@ title: "About Me"
 description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
 date: 2018-11-03T10:20:00Z
 weight: 1
-permalink: /about-me
+permalink: /about-me/
 thumbnail: "/assets/images/gen/projects/anastasia-thumbnail.webp"
 image: "/assets/images/gen/projects/project-1-2.webp"
 categories: ["Development"]

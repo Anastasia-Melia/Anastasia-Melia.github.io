@@ -4,7 +4,7 @@ title: "Film Programming"
 description: "Breathing new life into old industrial estates"
 date: 2018-12-20
 weight: 3
-permalink: /programming
+permalink: /programming/
 thumbnail: "/assets/images/gen/projects/programming-thumbnail.webp"
 # image: "/assets/images/gen/projects/project-2-1.webp"
 # categories: ["Development"]

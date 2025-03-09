@@ -4,7 +4,7 @@ title: "Filmmaking"
 description: "An open source machine learning library written in Python"
 date: 2018-12-20
 weight: 4
-permalink: /filmmkaing
+permalink: /filmmaking/
 thumbnail: "/assets/images/gen/projects/filmmaking-thumbnail.webp"
 image: "/assets/images/gen/projects/project-4-1.webp"
 #client: "RGA Agency"
