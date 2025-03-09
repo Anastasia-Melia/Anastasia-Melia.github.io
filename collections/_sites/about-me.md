@@ -7,17 +7,25 @@ weight: 1
 permalink: /about-me/
 thumbnail: "/assets/images/gen/projects/anastasia-thumbnail.webp"
 image: "/assets/images/gen/projects/project-1-2.webp"
-categories: ["Development"]
+#categories: ["Development"]
 #client: "Dubai Star"
-role: "Building Designer"
+#role: "Building Designer"
 gallery:
-  - image: "/assets/images/gen/projects/project-1-1.webp"
-    caption: "<strong>Above:</strong> North easterly aspect showing curved design"
+  - image: "/assets/images/gen/projects/anastasia.webp"
+    #caption: "<strong>Above:</strong> North easterly aspect showing curved design"
 gallery_limit: 1
 ---
 
-Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+Anastasia Melia Eleftheriou is a Greek filmmaker and film programmer based in Paris. Originally from Thessaloniki, Greece, she relocated to Paris in 2011. She received training in directing and editing in both France and the United States. ​
+imdb.com
++1
+filmindependent.org
++1
+filmindependent.org
++1
+en.unifrance.org
++1
 
-The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
+In her role as a film programmer, Eleftheriou collaborates with institutions and festivals on film curation. She also contributes as a critic for the East European Film Bulletin. ​
 
-Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication. Ancient urban architecture was preoccupied with building religious structures and buildings symbolizing the political power of rulers until Greek and Roman architecture shifted focus to civic virtues.
+Eleftheriou has directed several short films. Her first short film, "By Halves," won the special award for best female director at the Drama International Film Festival in Greece in 2018. In 2020, she directed "Quid pro quo," a 7-minute experimental short film that explores themes of solitude and relationships. Her 2022 short film, "In Vain," portrays a mysterious figure in a drought-stricken town and was filmed in Alquezar, Spain.
