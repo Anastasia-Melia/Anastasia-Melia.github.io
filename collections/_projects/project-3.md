@@ -1,12 +1,12 @@
 ---
 layout: project-left
-title: "Cubist Urban Home"
+title: "Writing"
 description: "A spectacular building, designed by the Valencian architect Santiago Calatrava."
 date: 2018-12-20
 weight: 2
-thumbnail: "/assets/images/gen/projects/project-3-1-thumbnail.webp"
+thumbnail: "/assets/images/gen/projects/writing-thumbnail.webp"
 image: "/assets/images/gen/projects/project-3-1.webp"
-client: "Region of Valencia"
+#client: "Region of Valencia"
 categories: ["Development"]
 role: "Building Designer"
 gallery:
