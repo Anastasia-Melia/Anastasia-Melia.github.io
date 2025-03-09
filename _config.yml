@@ -7,9 +7,6 @@ permalink: pretty
 markdown: kramdown
 highlighter: rouge
 
-theme: ""
-
-
 # Plugins
 plugins:
   - jekyll-environment-variables
