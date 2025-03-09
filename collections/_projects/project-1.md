@@ -7,7 +7,7 @@ weight: 3
 thumbnail: "/assets/images/gen/projects/programming-thumbnail.webp"
 # image: "/assets/images/gen/projects/project-2-1.webp"
 # categories: ["Development"]
-client: "Brisbane City Council"
+#client: "Brisbane City Council"
 role: "Building Designer"
 gallery:
   - image: "/assets/images/gen/projects/project-2-1.webp"
