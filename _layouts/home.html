@@ -18,7 +18,7 @@ body_classes: page-home
 
 {% assign cards = site.sites | sort: 'date' | reverse %}
 {% assign limit = page.sites.limit | default: 4 %}
-{% assign sort_by = page.sites.sort | default: 'date' %}
+{% assign sort_by = page.sites.sort | default: 'weight' %}
 {% assign columns =  page.sites.columns | default: 2 %}
 {% capture columns %}col-lg-{{ 12 | divided_by:columns }}{% endcapture %}
 {% if sort_by == 'weight' %}
