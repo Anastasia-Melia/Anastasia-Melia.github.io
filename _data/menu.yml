@@ -35,18 +35,8 @@ main:
   - name: Contact
     url: /contact/
     weight: 4
-  
 
-footer_primary:
-  - name: "Project 1"
-    url: /projects/project-1/
-  - name: "Project 2"
-    url: /projects/project-2/
-  - name: "Project 3"
-    url: /projects/project-3/
-  - name: "Project 4"
-    url: /projects/project-4/
-
+    
 footer_secondary:
   - name: Blog
     url: /blog/
