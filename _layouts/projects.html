@@ -17,24 +17,24 @@ body_classes: page-projects
 </div>
 
 
-{% assign cards = site.projects | sort: 'date' | reverse %}
-{% assign limit = page.projects.limit | default: 999 %}
-{% assign sort_by = page.projects.sort | default: 'date' %}
-{% assign columns =  page.projects.columns | default: 3 %}
+{% assign cards = site.sites | sort: 'date' | reverse %}
+{% assign limit = page.sites.limit | default: 999 %}
+{% assign sort_by = page.sites.sort | default: 'date' %}
+{% assign columns =  page.sites.columns | default: 3 %}
 {% capture columns %}col-lg-{{ 12 | divided_by:columns }}{% endcapture %}
 {% if sort_by == 'weight' %}
   {% assign cards = cards | sort: 'weight' %}
 {% endif %}
 
-{% assign cards = site.projects %}
+{% assign cards = site.sites %}
 {% if cards.size > 0 %}
 <div class="section pt-0">
   <div class="container">
     <div class="row">
 
       {% include framework/grid-header.html 
-        heading=page.projects.heading 
-        sub_heading=page.projects.sub_heading 
+        heading=page.sites.heading 
+        sub_heading=page.sites.sub_heading 
       %}
      
       {% for card in cards limit: limit %}
@@ -53,8 +53,8 @@ body_classes: page-projects
       {% endfor %}
 
       {% include framework/grid-footer.html 
-        view_more_button_text=page.projects.view_more_button_text
-        view_more_button_link=page.projects.view_more_button_link
+        view_more_button_text=page.sites.view_more_button_text
+        view_more_button_link=page.sites.view_more_button_link
         align="right"
         icon="fa-arrow-right"
       %}
