@@ -3,7 +3,7 @@ layout: project # alternative layouts: project, project-left, project-right, pro
 title: "Film Programming"
 description: "Breathing new life into old industrial estates"
 date: 2018-12-20
-weight: 3
+weight: 2
 permalink: /programming/
 thumbnail: "/assets/images/gen/projects/programming-thumbnail.webp"
 # image: "/assets/images/gen/projects/project-2-1.webp"
